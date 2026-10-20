@@ -1,0 +1,6 @@
+project_notes
+
+This is a fictional project about study habits.
+We plan to design a short survey.
+We will keep all data anonymous.
+The team meets weekly to review progress.
